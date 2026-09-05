@@ -1,11 +1,42 @@
-# Hi there 👋 Welcome to my official GitHub profile.
+<div align="center">
 
-If you are creating a meme coin based on my Twitter posts/content and want to allocate fees, team tokens, or airdrops, please use my official Solana address below:
+# 👋 Welcome to My Crypto Hub!
 
-### 🌐 My Official Solana (SOL) Wallet:
-`ВАШ_АДРЕС_КОШЕЛЬКА_PHANTOM_СЮДА`
-
-*Note: This is my only official wallet. Double-check the address before binding it to any smart contracts or pump.fun setups.*
+<!-- Красивые баджи со ссылками. Замените ВАШ_НИК_X на ваш ник в Твиттере -->
+[![Twitter/X](https://shields.io)](https://x.com)
+[![Solana Ecosystem](https://shields.io)](#)
+[![GitHub](https://shields.io)](#)
 
 ---
-[Back to my Twitter](https://x.com)
+
+### 🚀 Meme Coin & Token Creators Info
+If you are launching a meme coin on **pump.fun** or **Raydium** based on my Twitter/X posts, 
+you can bind my official address for **referral fees, dev allocations, or marketing budgets**. 
+
+</div>
+
+---
+
+### 📌 Official Solana (SOL) Address
+
+> [!IMPORTANT]
+> **This is my ONLY verified wallet.** Double-check the characters before linking it to any smart contracts, trading bots, or pump.fun deployments.
+
+```text
+ВСТАВЬТЕ_СЮДА_ВАШ_АДРЕС_КОШЕЛЬКА_PHANTOM
+```
+
+---
+
+### 📊 Network Status & Stats
+
+<!-- Красивая карточка со статистикой вашего гитхаба. Цвет подобран под тему Solana (зеленый/фиолетовый) -->
+<div align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <i>Let's build, launch, and send it to the moon together! 🌕</i>
+</div>
