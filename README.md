@@ -5,7 +5,7 @@
 <!-- Красивые баджи со ссылками. Замените ВАШ_НИК_X на ваш ник в Твиттере -->
 [![Twitter/X](https://shields.io)](https://x.com)
 [![Solana Ecosystem](https://shields.io)](#)
-[![GitHub](https://shields.io)](#)
+[![GitHub](https://shields.io)](Ozarmax)
 
 ---
 
